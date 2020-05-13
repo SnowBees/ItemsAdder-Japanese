@@ -44,7 +44,7 @@ chance: '&f   確率: &7{value}%'
 amount: '&f   量: &7{value}'
 min-height: '&f   最小の高さ: &7{value}'
 max-height: '&f   最高の高さ: &7{value}'
-drops-itself: '&e   Drops Itself'
+drops-itself: '&e   ドロップ自体'
 fuel-item: '    &b{type} &7+{amount}'
 iarecipe-wrong-usage: '&cコマンドの使い方が間違っています。
   正しい使い方: &e/iarecipe <アイテム名>&c、&aまたはアイテムを手に持って使用してください。'
