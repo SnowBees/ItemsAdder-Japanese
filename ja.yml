@@ -52,7 +52,7 @@ iarecipe-no-custom-item: '&cこれはカスタムアイテムではありませ�
   カスタムアイテムを手に持つか、&a次のコマンドを使用してください: &e/iarecipe <アイテム名>'
 anvil-repair-info: '&f金床での修理素材'
 ia-title-menu-categories: '&3&lカテゴリー'
-ia-title-recipe-view: '&3&lクラフティングレビュー'
+ia-title-recipe-view: '&3&l作業台レビュー'
 ia-button-search: '&f探す...'
 ia-button-back: '&f戻る'
 ia-button-next-page: '&f次のページ->'
