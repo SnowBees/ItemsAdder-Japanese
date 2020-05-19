@@ -65,6 +65,7 @@ settings:
       vehicle_fuel:
         item: "COAL"
 # 以下デフォルトです。変更なし / Below is the default. No change
+# 使用に応じて個人で変更してください。 / Please change it individually according to the use.
 categories:
   armors:
     enabled: true
