@@ -1,0 +1,560 @@
+info:
+  namespace: itemsadder_stuff
+  dictionary-lang: "ja"
+dictionary:
+  display-name-example_item: サンプルアイテム
+  display-name-ruby_head: ルビーヘルメット
+  display-name-ruby_chest: ルビーチェストプレート
+  display-name-ruby_legs: ルビーレギンス
+  display-name-ruby_boots: ルビーブーツ
+  display-name-spinel_head: スピネルヘルメット
+  display-name-spinel_chest: スピネルチェストプレート
+  display-name-spinel_legs: スピネルレギンス
+  display-name-spinel_boots: スピネルブーツ
+  display-name-turquoise_head: ターコイズブルーのヘルメット
+  display-name-turquoise_chest: ターコイズのチェストプレート
+  display-name-turquoise_legs: ターコイズレギンス
+  display-name-turquoise_boots: ターコイズブーツ
+  display-name-aqua_head: アクアオーラヘルメット
+  display-name-aqua_chest: アクアオーラチェストプレート
+  display-name-aqua_legs: アクアオーラレギンス
+  display-name-aqua_boots: アクアオーラブーツ
+  display-name-amethyst_head: アメジストヘルメット
+  display-name-amethyst_chest: アメジストチェストプレート
+  display-name-amethyst_legs: アメジストレギンス
+  display-name-amethyst_boots: アメジストブーツ
+  display-name-emerald_head: エメラルドヘルメット
+  display-name-emerald_chest: エメラルドチェストプレート
+  display-name-emerald_legs: エメラルドレギンス
+  display-name-emerald_boots: エメラルドブーツ
+  display-name-obsidian_head: 黒曜石ヘルメット
+  display-name-obsidian_chest: 黒曜石のチェストプレート
+  display-name-obsidian_legs: 黒曜石のレギンス
+  display-name-obsidian_boots: 黒曜石ブーツ
+  display-name-mysterious_chest: 神秘的なチェストプレート
+  display-name-mysterious_legs: ミステリアスなレギンス
+  display-name-mysterious_boots: 謎のブーツ
+  display-name-bronze_head: ブロンズヘルメット
+  display-name-bronze_chest: ブロンズチェストプレート
+  display-name-bronze_legs: ブロンズレギンス
+  display-name-bronze_boots: ブロンズブーツ
+  display-name-ruby_block: ルビーのブロック
+  display-name-crystal_block: 結晶のブロック
+  display-name-spinel_block: スピネルのブロック
+  display-name-turquoise_block: ターコイズのブロック
+  display-name-aqua_aura_block: アクアオーラのブロック
+  display-name-amethyst_block: アメジストのブロック
+  display-name-amethyst_prism_block: アメジストプリズムのブロック
+  display-name-crying_obsidian: '&9泣く黒曜石'
+  display-name-nice_stone: ニースストーン
+  display-name-nice_wood: ナイスウッド
+  display-name-modern_stone: モダンストーン
+  display-name-modern_sandstone: モダンな砂岩
+  display-name-modern_quartz: モダンクォーツ
+  display-name-ruby_ore: ルビー鉱石
+  display-name-spinel_ore: スピネル鉱石
+  display-name-turquoise_ore: ターコイズの鉱石
+  display-name-aqua_aura_ore: アクアオーラ鉱石
+  display-name-amethyst_ore: アメジスト鉱石
+  display-name-bronze_ore: ブロンズ鉱石
+  display-name-mysterious_ore: 謎の鉱石
+  display-name-end_ore: エンド鉱石
+  display-name-restoration_table: 復元テーブル
+  display-name-customization_table: カスタマイズテーブル
+  display-name-iron_dirt_ore: 鉄の汚れの鉱石
+  display-name-gold_dirt_ore: ゴールドダートオア
+  display-name-coal_dirt_ore: 石炭汚れ鉱石
+  display-name-blaze_powder_ore: ブレイズパウダーオア
+  display-name-nether_alchemy_ore: ネザーアルケミーオア
+  display-name-mysterious_book: 神秘的な本
+  display-name-letter: レター
+  display-name-mysterious_book_decrypted: 復号化された謎の本
+  display-name-astral_bow: アストラルボウ
+  display-name-cross_bow: クロスボウ
+  display-name-black_bow: 黒染めの弓
+  display-name-red_bow: 赤染めの弓
+  display-name-green_bow: 緑の染められた弓
+  display-name-blue_bow: 青染めの弓
+  display-name-purple_bow: 紫染めの弓
+  display-name-cyan_bow: シアン染めの弓
+  display-name-tomato_seeds: トマトの種
+  display-name-garlic_seeds: ニンニクの種
+  display-name-lettuce_seeds: レタスの種子
+  display-name-chili_pepper_seeds: チリペッパーシード
+  display-name-rice_seeds: イネの種子
+  display-name-tobacco_seeds: タバコの種
+  display-name-cola: コーラ
+  display-name-hot_chocolate: ホットチョコレート
+  display-name-coffee: コーヒー
+  display-name-diamonds_finder_potion: ダイヤモンドファインダーポーション
+  display-name-emeralds_finder_potion: エメラルドはポーションを見つけます
+  display-name-strange_potion: 奇妙なポーション
+  display-name-antidote: 解毒剤
+  display-name-bloody_mary: ブラッディマリー
+  display-name-black_fishing_rod: 黒染めの釣り竿
+  display-name-red_fishing_rod: 赤染めの釣り竿
+  display-name-green_fishing_rod: 緑染め釣り竿
+  display-name-blue_fishing_rod: 青染めの釣り竿
+  display-name-purple_fishing_rod: 紫色の染めた釣り竿
+  display-name-cyan_fishing_rod: シアンに染められた釣り竿
+  display-name-pizza: ピザ
+  display-name-taco: Taco
+  display-name-hamburger: ハンバーガー
+  display-name-chips: チップ
+  display-name-hotdog: ホットドッグ
+  display-name-tropical_fish_nigiri: 熱帯魚のにぎり
+  display-name-cod_nigiri: Cod Nigiri
+  display-name-salmon_nigiri: 鮭のにぎり
+  display-name-sausage: ソーセージ
+  display-name-cooked_sausage: 調理済みソーセージ
+  display-name-baguette: バゲット
+  display-name-broken_egg: 壊れた卵
+  display-name-fried_egg: 目玉焼き
+  display-name-peeled_potato: 皮をむいたジャガイモ
+  display-name-potato_sticks: ポテトスティック
+  display-name-fried_potato_sticks: フライドポテトスティック
+  display-name-french_fries: フライドポテト
+  display-name-donut_base: ドーナツベース
+  display-name-cooked_donut_base: 調理済みドーナツベース
+  display-name-sweet: 甘い
+  display-name-sweet_stick: 甘い棒
+  display-name-pink_donut: ピンクドーナツ
+  display-name-nether_donut: ネザードーナツ
+  display-name-cheese: チーズ
+  display-name-pufferfish_nigiri: ふぐにぎり
+  display-name-sliced_bread: スライスされたパン
+  display-name-sliced_baguette: スライスしたバゲット
+  display-name-sliced_cheese: スライスチーズ
+  display-name-blue_parrotfish: 青いブダイ
+  display-name-cooked_blue_parrotfish: 調理済みの青いブダイ
+  display-name-green_sunfish: 緑のマンボウ
+  display-name-cooked_green_sunfish: 調理されたグリーンマンボウ
+  display-name-goldfish: 金魚
+  display-name-cooked_goldfish: 調理された金魚
+  display-name-black_moor_goldfish: ブラックムーア金魚
+  display-name-cooked_black_moor_goldfish: 調理された黒い湿原の金魚
+  display-name-tuna: マグロ
+  display-name-cooked_tuna: 調理済みマグロ
+  display-name-sliced_raw_beef: スライスした生の牛肉
+  display-name-sliced_roast_beef: スライスしたローストビーフ
+  display-name-sliced_bread_with_sweet_berries_jam: スウィートバリージャムスライスパン
+  display-name-sliced_bread_with_pear_jam: 梨ジャムを使用したスライスされたパン
+  display-name-sliced_bread_with_apple_jam: アップルジャムでスライスしたパン
+  display-name-old_clock: 古い時計
+  display-name-opened_chest: 開いたチェスト
+  display-name-computer_desk: コンピューターのあるデスク
+  display-name-table: テーブル
+  display-name-lamp: ランプ
+  display-name-simple_chair: シンプルな椅子
+  display-name-lava_lamp: 溶岩ランプ
+  display-name-white_chair: 白い椅子
+  display-name-glass_table: ガラステーブル
+  display-name-computer_chair: コンピュータチェア
+  display-name-monitor: モニター
+  display-name-tv: TV
+  display-name-mini_fridge: ミニ冷蔵庫
+  display-name-energy_extractor: エネルギー抽出器
+  display-name-energy_converter: エネルギー変換器
+  display-name-vending_machine: 自動販売機
+  display-name-coffee_machine: コーヒーマシン
+  display-name-mysterious_stone: 神秘的な石
+  display-name-alchemy_candles: 錬金術キャンドル
+  display-name-painting_burst: ペイント
+  display-name-painting_courbet: 絵画
+  display-name-painting_graham: 絵画
+  display-name-painting_match: ペイント
+  display-name-painting_pool: ペイント
+  display-name-painting_skull_and_roses: 絵画
+  display-name-painting_stage: 絵画
+  display-name-painting_void: ペイント
+  display-name-painting_wanderer: 絵画
+  display-name-white_bar_chair: ホワイトバーチェア
+  display-name-orange_bar_chair: オレンジバーチェア
+  display-name-magenta_bar_chair: マゼンタバーチェア
+  display-name-light_blue_bar_chair: ライトブルーのバーチェア
+  display-name-yellow_bar_chair: 黄色のバーチェア
+  display-name-lime_bar_chair: ライムバーチェア
+  display-name-pink_bar_chair: ピンクのバーチェア
+  display-name-gray_bar_chair: 灰色のバーチェア
+  display-name-light_gray_bar_chair: ライトグレーのバーチェア
+  display-name-cyan_bar_chair: シアンバーチェア
+  display-name-purple_bar_chair: パープルバーチェア
+  display-name-blue_bar_chair: ブルーバーチェア
+  display-name-brown_bar_chair: ブラウンバーチェア
+  display-name-green_bar_chair: 緑のバーチェア
+  display-name-red_bar_chair: 赤いバーチェア
+  display-name-black_bar_chair: ブラックバーチェア
+  display-name-white_wood_chair: ホワイトウッドチェア
+  display-name-orange_wood_chair: オレンジウッドチェア
+  display-name-magenta_wood_chair: マゼンタの木の椅子
+  display-name-light_blue_wood_chair: ライトブルーの木製の椅子
+  display-name-yellow_wood_chair: イエローウッドチェア
+  display-name-lime_wood_chair: ライムウッドの椅子
+  display-name-pink_wood_chair: ピンクの木の椅子
+  display-name-gray_wood_chair: 灰色の木の椅子
+  display-name-light_gray_wood_chair: ライトグレーの木製の椅子
+  display-name-cyan_wood_chair: シアンウッドの椅子
+  display-name-purple_wood_chair: パープルウッドチェア
+  display-name-blue_wood_chair: ブルーウッドチェア
+  display-name-brown_wood_chair: ブラウンウッドチェア
+  display-name-green_wood_chair: グリーンウッドチェア
+  display-name-red_wood_chair: 赤い木の椅子
+  display-name-black_wood_chair: ブラックウッドチェア
+  display-name-dark_throne: Dark Throne
+  display-name-school_chair: 学校の椅子
+  display-name-school_chair_lazy: スクールチェアレイジー
+  display-name-white_chandeliers: ホワイトシャンデリア
+  display-name-black_chandeliers: 黒のシャンデリア
+  display-name-black_and_red_chandeliers: 黒と赤のシャンデリア
+  display-name-small_fountain: 小さな噴水
+  display-name-lit_campfire: 点灯キャンプファイヤー
+  display-name-decorative_pumpkin: 装飾的なカボチャ
+  display-name-christmas_tree: クリスマスツリー
+  display-name-christmas_candle: クリスマスキャンドル
+  display-name-decorative_candy_cane: 装飾キャンディケーン
+  display-name-christmas_wreath: クリスマスリース
+  display-name-revolver: リボルバー
+  display-name-hand_gun: ハンドガン
+  display-name-ak47: AK-47
+  display-name-shotgun: ショットガン
+  display-name-firework_launcher: 花火ランチャー
+  display-name-deadmau5_hat: '&9deadmau5_hat'
+  display-name-top_hat: トップハット
+  display-name-welding_mask: 溶接マスク
+  display-name-mining_helmet: マイニングヘルメット
+  display-name-dog_mask: 犬のマスク
+  display-name-ruby_pickaxe_hat: ルビーつるはし帽子
+  display-name-straw_hat: 麦わら帽子
+  display-name-cool_sunglasses: クールなサングラス
+  display-name-cigar: シガー
+  display-name-glasses: メガネ
+  display-name-biker_helmet: バイカーヘルメット
+  display-name-cat_ears: 猫の耳
+  display-name-mysterious_hood: ミステリオスフード
+  display-name-demoniac_red_wings: 悪魔のような赤い翼
+  display-name-demoniac_turquoise_wings: デモニアックターコイズウイング
+  display-name-demoniac_purple_wings: デモニアックパープルウイング
+  display-name-demoniac_blue_wings: 悪魔のような青い翼
+  display-name-demoniac_black_wings: デモニアックブラックウィング
+  display-name-all_black_cat_tail: オールブラックキャットテール
+  display-name-black_cat_tail: 黒猫の尻尾
+  display-name-white_cat_tail: 白猫の尻尾
+  display-name-ender_dragon_wings: エンダードラゴンの羽
+  display-name-red_backpack: レッドバックパック
+  display-name-turquoise_backpack: ターコイズバックパック
+  display-name-purple_backpack: パープルバックパック
+  display-name-blue_backpack: ブルーバックパック
+  display-name-black_backpack: ブラックバックパック
+  display-name-brown_backpack: ブラウンバックパック
+  display-name-jack_o_lantern_backpack: '&6Jack o''Lantern &fBackpack'
+  display-name-dark_jack_o_lantern_backpack: '&4Dark &6Jack o''Lantern &fBackpack'
+  display-name-spider_backpack: Spider &fBackpack
+  display-name-cave_spider_backpack: Cave Spider &fBackpack
+  display-name-bones_backpack: Bones &fBackpack
+  display-name-witch_hat: ウィッチハット
+  display-name-bat_wings: コウモリの羽
+  display-name-axe_hat: アックスハット
+  display-name-santa_hat: '&cサンタハット'
+  display-name-empty_cup: 空のカップ
+  display-name-flour: 小麦粉
+  表示名生地: 生地
+  display-name-cup_of_water: 水のカップ
+  display-name-cup_of_hot_water: お湯のカップ
+  display-name-projectile: 発射物
+  display-name-plastic: プラスチック
+  display-name-plastic_plate: プラスチックプレート
+  display-name-clip: クリップ
+  display-name-blank_disc: 空のディスク
+  display-name-music_disc_electric_keys: '&b音楽ディスク'
+  display-name-music_disc_cdk_sunday: '&b音楽ディスク'
+  display-name-music_disc_vidian_aether_theories: '&b音楽ディスク'
+  display-name-ketchup_bottle: ケチャップボトル
+  display-name-ketchup: ケチャップ
+  display-name-chili_powder: チリパウダー
+  display-name-drink_glass: ドリンクグラス
+  display-name-bug_medal: '&6BugFinder medal'
+  display-name-cute_medal: '&6Cuteness medal'
+  display-name-donator_medal: '&6Donator medal'
+  display-name-energy_orb: '&5Energy Orb'
+  display-name-small_energy_capsule: '&dSmall Energy Capsule'
+  display-name-energy_capsule: '&6Energy Capsule'
+  display-name-iron_plate: アイアンプレート
+  display-name-tobacco: タバコ
+  表示名ネスト: ネスト
+  display-name-eggs_nest: 卵の巣
+  display-name-mysterious_artifact: 神秘的なアーティファクト
+  display-name-coin: コイン
+  display-name-banknote: 紙幣
+  display-name-sack_of_money: お金の袋
+  display-name-plastic_bag: ビニール袋
+  display-name-four_leaf_clover: 四つ葉のクローバー
+  display-name-light_blue_coupon: 一般的なクーポン
+  display-name-turquoise_coupon: 一般的なクーポン
+  display-name-purple_coupon: 一般的なクーポン
+  display-name-green_coupon: 一般的なクーポン
+  display-name-red_coupon: 一般的なクーポン
+  display-name-black_coupon: 一般的なクーポン
+  display-name-white_coupon: 一般的なクーポン
+  display-name-golden_coupon: 一般的なクーポン
+  display-name-blue_ring: 汎用リング
+  display-name-light_blue_ring: 汎用リング
+  display-name-turquoise_ring: 汎用リング
+  display-name-purple_ring: 汎用リング
+  display-name-green_ring: 汎用リング
+  display-name-red_ring: 汎用リング
+  display-name-black_ring: 汎用リング
+  display-name-white_ring: 汎用リング
+  display-name-golden_ring: 汎用リング
+  display-name-marriage_ring: 結婚指輪
+  display-name-jar: Jar
+  display-name-blue_key: 汎用キー
+  display-name-light_blue_key: 汎用キー
+  display-name-turquoise_key: 汎用キー
+  display-name-purple_key: 汎用キー
+  display-name-green_key: 汎用キー
+  display-name-red_key: 汎用キー
+  display-name-black_key: 汎用キー
+  display-name-white_key: 汎用キー
+  display-name-golden_key: 汎用キー
+  display-name-carton_box: カートンボックス
+  display-name-cut_spruce_log: トウヒの丸太を切る
+  display-name-shotgun_cartridge: ショットガンカートリッジ
+  表示名ルビ: ルビ
+  表示名クリスタル: クリスタル
+  display-name-spinel: スピネル
+  display-name-turquoise: ターコイズ
+  display-name-aqua_aura: アクアオーラ
+  display-name-amethyst: アメジスト
+  display-name-amethyst_prism: アメジストプリズム
+  display-name-fossil: 化石
+  display-name-bronze_ingot: ブロンズインゴット
+  display-name-mysterious_material: 謎の素材
+  display-name-end_shard: 終了シャード
+  display-name-end_crystals: エンドクリスタル
+  display-name-end_ingot: エンドインゴット
+  display-name-knowledge_fragment: ナレッジフラグメント
+  display-name-coal_nugget: 石炭ナゲット
+  display-name-ender_shield: エンダーシールド
+  display-name-obsidian_shield: 黒曜石シールド
+  display-name-bronze_shield: ブロンズシールド
+  display-name-ruby_shield: ルビーシールド
+  display-name-spinel_shield: スピネルシールド
+  display-name-turquoise_shield: ターコイズシールド
+  display-name-amethyst_shield: アメジストシールド
+  display-name-fossil_shield: 化石の盾
+  display-name-blue_lightsaber: '&1&lBlue LightSaber'
+  display-name-green_lightsaber: '&2&lGreen LightSaber'
+  display-name-red_lightsaber: '&4&lRed LightSaber'
+  display-name-masters_sword: '&6&lMaster''s Sword'
+  display-name-floating_sword: '&9&lFloating Sword'
+  display-name-baseball_bat: 野球のバット
+  display-name-gandalf_stick: ガンダルフスティック
+  display-name-emerald_sword: エメラルドソード
+  display-name-elucidator_sword: Elucidator
+  display-name-repulser_sword: リパルサー
+  display-name-firesword_sword: ファイアソード
+  display-name-aqualight_sword: アクアライト
+  display-name-rusteroth_sword: Rusteroth
+  display-name-bloodnite_sword: Bloodnite
+  display-name-vyderlight_sword: ヴィダーライト
+  display-name-ruby_sword: ルビーソード
+  display-name-crystal_sword: クリスタルソード
+  display-name-spinel_sword: スピネルソード
+  display-name-turquoise_sword: ターコイズソード
+  display-name-aqua_sword: アクアオーラソード
+  display-name-amethyst_sword: アメジストソード
+  display-name-guitar_sword: ギターの剣
+  display-name-ruby_dagger: ルビーダガー
+  display-name-sweets_sword: スイーツの剣
+  display-name-knife: ナイフ
+  display-name-philosopher_stone: 哲学者の石
+  display-name-chisel: チゼル
+  display-name-mysterious_sword: 謎の剣
+  display-name-end_sword: エンドソード
+  display-name-bronze_sword: ブロンズソード
+  display-name-sweet_berries_jam_jar: 甘いバリージャムジャー
+  display-name-pear_jam_jar: 梨ジャムジャー
+  display-name-apple_jam_jar: アップルジャムジャー
+  display-name-healing_crystals: ヒーリングクリスタル
+  display-name-grenade: 手榴弾
+  display-name-mysterious_amulet: 謎の魔除け
+  display-name-ufo_toy: UFOおもちゃ
+  display-name-ruby_axe: ルビーアックス
+  display-name-crystal_axe: クリスタルアックス
+  display-name-spinel_axe: スピネルアックス
+  display-name-turquoise_axe: ターコイズアックス
+  display-name-aqua_aura_axe: アクアオーラアックス
+  display-name-amethyst_axe: アメジストアクス
+  display-name-bronze_axe: ブロンズアクシス
+  display-name-astral_pickaxe: '&3アストラルつるはし'
+  display-name-diamond_hammer: '&3&lダイヤモンドハンマー'
+  display-name-demoniac_pickaxe: '&4&lデモニアックつるはし'
+  display-name-ruby_pickaxe: ルビーつるはし
+  display-name-crystal_pickaxe: クリスタルつるはし
+  display-name-spinel_pickaxe: スピネルつるはし
+  display-name-turquoise_pickaxe: ターコイズつるはし
+  display-name-aqua_pickaxe: アクアオーラつるはし
+  display-name-amethyst_pickaxe: アメジストつるはし
+  display-name-bronze_pickaxe: ブロンズつるはし
+  display-name-ruby_hoe: ルビークワ
+  display-name-crystal_hoe: クリスタルのクワ
+  display-name-spinel_hoe: スピネルのクワ
+  display-name-turquoise_hoe: ターコイズのクワ
+  display-name-aqua_hoe: アクアオーラどうやって
+  display-name-amethyst_hoe: アメジストのクワ
+  display-name-bronze_hoe: ブロンズのクワ
+  display-name-ruby_shovel: ルビーシャベル
+  display-name-crystal_shovel: クリスタルシャベル
+  display-name-spinel_shovel: スピネルシャベル
+  display-name-turquoise_shovel: ターコイズシャベル
+  display-name-aqua_aura_shovel: アクアオーラシャベル
+  display-name-amethyst_shovel: アメジストシャベル
+  display-name-bronze_shovel: ブロンズシャベル
+  display-name-black_shears: 黒染めばさみ
+  display-name-red_shears: 赤染めばさみ
+  display-name-green_shears: 緑の染色シアー
+  display-name-blue_shears: 青色の染色シアー
+  display-name-purple_shears: 紫の染色シアー
+  display-name-cyan_shears: シアン染めばさみ
+  display-name-demoniac_hammer: '&4&lデモニアックハンマー'
+  display-name-arcane_ring: 秘儀リング
+  display-name-tomato: トマト
+  display-name-banana: バナナ
+  display-name-garlic: にんにく
+  display-name-lettuce: レタス
+  display-name-chili_pepper: チリペッパー
+  display-name-pear: ナシ
+  display-name-rice: ご飯
+  display-name-shopping_cart: ショッピングカート
+  display-name-white_go_cart: ホワイトゴーカート
+  display-name-orange_go_cart: オレンジゴーカート
+  display-name-magenta_go_cart: マゼンタゴーカート
+  display-name-light_blue_go_cart: ライトブルーのゴーカート
+  display-name-yellow_go_cart: イエローゴーカート
+  display-name-lime_go_cart: ライムゴーカート
+  display-name-pink_go_cart: ピンクのゴーカート
+  display-name-gray_go_cart: グレーのゴーカート
+  display-name-light_gray_go_cart: ライトグレーゴーカート
+  display-name-cyan_go_cart: シアンゴーカート
+  display-name-purple_go_cart: パープルゴーカート
+  display-name-blue_go_cart: ブルーゴーカート
+  display-name-brown_go_cart: ブラウンゴーカート
+  display-name-green_go_cart: 緑のゴーカート
+  display-name-red_go_cart: レッドゴーカート
+  display-name-black_go_cart: 黒のゴーカート
+  display-name-oak_wood_plane: オークウッドプレーン
+  display-name-spruce_wood_plane: スプルースウッドプレーン
+  display-name-birch_wood_plane: バーチウッドプレーン
+  display-name-jungle_wood_plane: ジャングルウッドプレーン
+  display-name-acacia_wood_plane: アカシアの木目
+  display-name-dark_oak_wood_plane: ダークオークウッドプレーン
+  display-name-ufo: UFO
+  display-name-broomstick: ほうきの柄
+  display-name-icon_left_gray: <戻る
+  display-name-icon_left_blue: <戻る
+  display-name-icon_right_gray: 次>
+  display-name-icon_right_blue: 次へ>
+  display-name-icon_up_gray: 上
+  display-name-icon_up_blue: アップ
+  display-name-icon_down_gray: 下
+  display-name-icon_down_blue: ダウン
+  display-name-icon_next_white: 次へ>
+  display-name-icon_next_orange: 次>
+  display-name-icon_back_white: <戻る
+  display-name-icon_back_orange: <戻る
+  display-name-icon_cancel: キャンセル
+  display-name-icon_confirm: 確認
+  display-name-icon_lock: ロック
+  display-name-icon_unlock: ロック解除
+  display-name-icon_web: Web
+  display-name-icon_ender_chest: エンダーチェスト
+  display-name-icon_refresh: 更新
+  display-name-icon_time_day: 時間
+  display-name-icon_time_midnight: 真夜中の時間
+  display-name-icon_time_night: 夜の時間
+  display-name-icon_time_noon: 昼の時間
+  display-name-icon_time_sunrise: 時間の日の出
+  display-name-icon_time_sunset: 時間の日没
+  display-name-icon_toggle_off: トグルオフ
+  display-name-icon_toggle_on: トグルオン
+  display-name-icon_arrow_chest: アローチェスト
+  display-name-icon_plus: プラス
+  display-name-icon_color_picker: カラーピッカー
+  display-name-icon_comment: コメント
+  display-name-icon_search: 検索
+  display-name-boiled_water_bucket: 沸騰水バケット
+  display-name-waterskin: ウォータースキン
+  lore-1-philosopher_stone: '&6[ &e特殊効果 &6]'
+  lore-2-philosopher_stone: '&7右クリック + SHIFT: '
+  lore-3-philosopher_stone: '   - &4Lava &7to &8Obsidian'
+  lore-4-philosopher_stone: '   - &cPoppy &7to &eDandelion'
+  lore-5-philosopher_stone: ' '
+  lore-6-philosopher_stone: '&7右クリック: '
+  lore-7-philosopher_stone: '   - &eSand &7to &8Cobblestone'
+  lore-8-philosopher_stone: '   - &9Water &7to &bIce'
+  lore-9-philosopher_stone: '   - &eDandelion &7to &cPoppy'
+  lore-10-philosopher_stone: '   - &2Melon &7to &6Pumpkin'
+  lore-11-philosopher_stone: '   - &fGlass &7to &eSand'
+  lore-12-philosopher_stone: ' '
+  lore-13-philosopher_stone: '&7To recharge put it in &fCrafting table'
+  lore-14-philosopher_stone: '&7center slot and put an &5Energy Orb'
+  lore-15-philosopher_stone: '&7(or other energy containers) on the right'
+  lore-1-mysterious_boots: '&6[ &e特殊効果 &6]'
+  lore-2-mysterious_boots: '&9スピード II (**:**)'
+  lore-1-diamonds_finder_potion: '&7ダイヤモンド鉱石を他のブロックの後ろに輝かせます'
+  lore-1-emeralds_finder_potion: '&7エメラルド鉱石を他のブロックの後ろに輝かせる'
+  lore-1-strange_potion: '&7不思議なポーション'
+  lore-1-antidote: '&7ポーション効果を取り除きます'
+  lore-decorative-item: '&7装飾品'
+  lore-chair: '&7右クリックして座る'
+  lore-1-energy_extractor: '&7それを使用してアイテムを変換する'
+  lore-2-energy_extractor: '&7エネルギーに'
+  lore-1-energy_converter: '&7それを使用してエネルギーを変換する'
+  lore-2-energy_converter: '&7アイテムに'
+  lore-1-vending_machine: '&7それを使用してクールなアイテムを入手する'
+  lore-1-coffee_machine: '&7本当においしいコーヒーを作る'
+  lore-1-firework_launcher: '&7左手に花火ロケットをホールド'
+  lore-2-firework_launcher: '&7を押しながら右クリックして充電する'
+  lore-3-firework_launcher: '&7花火ランチャー'
+  lore-1-mysterious_hood: '&6 [&e特殊効果&6]'
+  lore-2-mysterious_hood: '&9ナイトビジョン (**:**)'
+  lore-3-mysterious_hood: '&9アンラッキー (**:**)'
+  lore-1-projectile: '&7Hold it in the left'
+  lore-2-projectile: '&7hand while shooting'
+  lore-3-projectile: '&7with a gun'
+  lore-1-clip: '&7Hold it in the left'
+  lore-2-clip: '&7hand while shooting'
+  lore-3-clip: '&7with an ak-47'
+  lore-1-blank_disc: '&7Can be used to craft'
+  lore-2-blank_disc: '&7music discs'
+  lore-1-ketchup_bottle: '&7Put in the crafting table'
+  lore-2-ketchup_bottle: '&7middle slot to get'
+  lore-3-ketchup_bottle: '&7some Ketchup'
+  lore-1-ketchup: '&7Obtained from'
+  lore-2-ketchup: '&7ketchup bottle'
+  lore-1-chili_powder: '&7Obtained from'
+  lore-2-chili_powder: '&7chili pepper'
+  lore-1-bug_medal: '&7Medal won by'
+  lore-2-bug_medal: '&7a very good'
+  lore-3-bug_medal: '&7bug finder.'
+  lore-1-cute_medal: '&7Medal won by'
+  lore-2-cute_medal: '&7the cutest person.'
+  lore-1-donator_medal: '&7Medal won by'
+  lore-2-donator_medal: '&7the most generous.'
+  lore-1-energy_orb: '&7Obtained from Energy Extractor'
+  lore-1-small_energy_capsule: '&7Contains &5Energy Orbs &fx8'
+  lore-1-energy_capsule: '&7Contains &dSmall Energy Capsule &fx8'
+  lore-2-energy_capsule: '&7(&5Energy Orbs &fx64&7)'
+  lore-1-shotgun_cartridge: '&7Hold it in the left'
+  lore-2-shotgun_cartridge: '&7hand while shooting'
+  lore-3-shotgun_cartridge: '&7with a Shotgun'
+  lore-1-ufo_toy: '&7右クリックして飛ばします'
+  lore-1-demoniac_pickaxe: '&7When you mine a block'
+  lore-2-demoniac_pickaxe: '&7it drops exp orbs'
+  lore-3-demoniac_pickaxe: '&750% of times.'
+  lore-1-demoniac_hammer: '&7When you mine a block'
+  lore-2-demoniac_hammer: '&7it drops exp orbs'
+  lore-3-demoniac_hammer: ''
+  lore-4-demoniac_hammer: '&bMines 3x3x3'
+  lore-1-arcane_ring: '&6[ &e特殊効果 &6]'
+  lore-2-arcane_ring: '&7人生に戻る'
