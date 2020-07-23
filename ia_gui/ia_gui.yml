@@ -1,0 +1,842 @@
+settings:
+  categories_view:
+    font_image:
+      name: "mcguis:blank_menu"
+      x_position_pixels: -16
+    title_position_pixels: 0
+    title_color: "&0"
+    icons:
+      search:
+        # mcicons:icon_search
+        item: "OAK_SIGN"
+  category_view:
+    font_image:
+      name: "mcguis:blank_menu"
+      x_position_pixels: -16
+    title_position_pixels: 0
+    title_color: "&0"
+    icons:
+      back:
+        # mcicons:icon_cancel
+        item: "BARRIER"
+      previous_page:
+        # mcicons:icon_back_orange
+        item: "ARROW"
+      next_page:
+        # mcicons:icon_next_orange
+        item: "ARROW"
+  crafting_preview:
+    craft_font_image:
+      name: "mcguis:crafting"
+      x_position_pixels: -8
+    cook_font_image:
+      name: "mcguis:cooking"
+      x_position_pixels: -8
+    anvil_repair_font_image:
+      name: "mcguis:anvil_repair"
+      x_position_pixels: -8
+    title_position_pixels: 17
+    title_color: "&0"
+    icons:
+      previous_recipe:
+        # mcicons:icon_left_blue
+        item: "CRAFTING_TABLE"
+      next_recipe:
+        # mcicons:icon_right_blue
+        item: "ARROW"
+      get_item:
+        # mcicons:icon_arrow_chest
+        item: "COMMAND_BLOCK_MINECART"
+      loot_blocks:
+        item: "DIAMOND_PICKAXE"
+      worlds_populators:
+        item: "CHEST"
+      seed_result:
+        item: "WHEAT_SEEDS"
+      loot_mobs:
+        item: "CREEPER_HEAD"
+      loot_fishing:
+        item: "FISHING_ROD"
+      vehicle_fuel:
+        item: "COAL"
+categories:
+  armors:
+    enabled: true
+    icon: "itemsadder:ruby_head"
+    name: 'Armors'
+    permission: "ia.menu.armors"
+    items:
+      - "itemsadder:ruby_head"
+      - "itemsadder:ruby_chest"
+      - "itemsadder:ruby_legs"
+      - "itemsadder:ruby_boots"
+      - "itemsadder:spinel_head"
+      - "itemsadder:spinel_chest"
+      - "itemsadder:spinel_legs"
+      - "itemsadder:spinel_boots"
+      - "itemsadder:turquoise_head"
+      - "itemsadder:turquoise_chest"
+      - "itemsadder:turquoise_legs"
+      - "itemsadder:turquoise_boots"
+      - "itemsadder:aqua_head"
+      - "itemsadder:aqua_chest"
+      - "itemsadder:aqua_legs"
+      - "itemsadder:aqua_boots"
+      - "itemsadder:amethyst_head"
+      - "itemsadder:amethyst_chest"
+      - "itemsadder:amethyst_legs"
+      - "itemsadder:amethyst_boots"
+      - "itemsadder:emerald_head"
+      - "itemsadder:emerald_chest"
+      - "itemsadder:emerald_legs"
+      - "itemsadder:emerald_boots"
+      - "itemsadder:obsidian_head"
+      - "itemsadder:obsidian_chest"
+      - "itemsadder:obsidian_legs"
+      - "itemsadder:obsidian_boots"
+      - "itemsadder:bronze_head"
+      - "itemsadder:bronze_chest"
+      - "itemsadder:bronze_legs"
+      - "itemsadder:bronze_boots"
+      - "itemsadder:mysterious_chest"
+      - "itemsadder:mysterious_legs"
+      - "itemsadder:mysterious_boots"
+  swords:
+    enabled: true
+    icon: "itemsadder:ruby_sword"
+    name: 'Swords'
+    permission: "ia.menu.swords"
+    items:
+      - "itemsadder:ruby_sword"
+      - "itemsadder:ruby_dagger"
+      - "itemsadder:emerald_sword"
+      - "itemsadder:crystal_sword"
+      - "itemsadder:spinel_sword"
+      - "itemsadder:turquoise_sword"
+      - "itemsadder:aqua_sword"
+      - "itemsadder:amethyst_sword"
+      - "itemsadder:bronze_sword"
+      - "itemsadder:blue_lightsaber"
+      - "itemsadder:red_lightsaber"
+      - "itemsadder:green_lightsaber"
+      - "itemsadder:masters_sword"
+      - "itemsadder:floating_sword"
+      - "itemsadder:baseball_bat"
+      - "itemsadder:gandalf_stick"
+      - "itemsadder:elucidator_sword"
+      - "itemsadder:repulser_sword"
+      - "itemsadder:firesword_sword"
+      - "itemsadder:aqualight_sword"
+      - "itemsadder:rusteroth_sword"
+      - "itemsadder:bloodnite_sword"
+      - "itemsadder:vyderlight_sword"
+      - "itemsadder:guitar_sword"
+      - "itemsadder:sweets_sword"
+      - "itemsadder:knife"
+      - "itemsadder:chisel"
+      - "itemsadder:mysterious_sword"
+      - "itemsadder:end_sword"
+  pickaxes:
+    enabled: true
+    icon: "itemsadder:ruby_pickaxe"
+    name: 'Pickaxes'
+    permission: "ia.menu.pickaxes"
+    items:
+      - "itemsadder:astral_pickaxe"
+      - "itemsadder:diamond_hammer"
+      - "itemsadder:demoniac_hammer"
+      - "itemsadder:demoniac_pickaxe"
+      - "itemsadder:ruby_pickaxe"
+      - "itemsadder:crystal_pickaxe"
+      - "itemsadder:spinel_pickaxe"
+      - "itemsadder:turquoise_pickaxe"
+      - "itemsadder:aqua_pickaxe"
+      - "itemsadder:amethyst_pickaxe"
+      - "itemsadder:bronze_pickaxe"
+  axes:
+    enabled: true
+    icon: "itemsadder:ruby_axe"
+    name: 'Axes'
+    permission: "ia.menu.axes"
+    items:
+      - "itemsadder:ruby_axe"
+      - "itemsadder:crystal_axe"
+      - "itemsadder:spinel_axe"
+      - "itemsadder:turquoise_axe"
+      - "itemsadder:aqua_aura_axe"
+      - "itemsadder:amethyst_axe"
+      - "itemsadder:bronze_axe"
+  hoes:
+    enabled: true
+    icon: "itemsadder:ruby_hoe"
+    name: 'Hoes'
+    permission: "ia.menu.hoes"
+    items:
+      - "itemsadder:ruby_hoe"
+      - "itemsadder:crystal_hoe"
+      - "itemsadder:spinel_hoe"
+      - "itemsadder:turquoise_hoe"
+      - "itemsadder:aqua_hoe"
+      - "itemsadder:amethyst_hoe"
+      - "itemsadder:bronze_hoe"
+  shovels:
+    enabled: true
+    icon: "itemsadder:ruby_shovel"
+    name: 'Shovels'
+    permission: "ia.menu.shovels"
+    items:
+      - "itemsadder:ruby_shovel"
+      - "itemsadder:crystal_shovel"
+      - "itemsadder:spinel_shovel"
+      - "itemsadder:turquoise_shovel"
+      - "itemsadder:aqua_aura_shovel"
+      - "itemsadder:amethyst_shovel"
+      - "itemsadder:bronze_shovel"
+  fishing_rods:
+    enabled: true
+    icon: "itemsadder:red_fishing_rod"
+    name: 'Fishing Rods'
+    permission: "ia.menu.fishing_rods"
+    items:
+      - "itemsadder:black_fishing_rod"
+      - "itemsadder:red_fishing_rod"
+      - "itemsadder:green_fishing_rod"
+      - "itemsadder:blue_fishing_rod"
+      - "itemsadder:purple_fishing_rod"
+      - "itemsadder:cyan_fishing_rod"
+  shears:
+    enabled: true
+    icon: "itemsadder:red_shears"
+    name: 'Shears'
+    permission: "ia.menu.shears"
+    items:
+      - "itemsadder:black_shears"
+      - "itemsadder:red_shears"
+      - "itemsadder:green_shears"
+      - "itemsadder:blue_shears"
+      - "itemsadder:purple_shears"
+      - "itemsadder:cyan_shears"
+  weapons:
+    enabled: true
+    icon: "itemsadder:revolver"
+    name: 'Weapons'
+    permission: "ia.menu.weapons"
+    items:
+      - "itemsadder:projectile"
+      - "itemsadder:revolver"
+      - "itemsadder:hand_gun"
+      - "itemsadder:clip"
+      - "itemsadder:ak47"
+      - "itemsadder:grenade"
+      - "itemsadder:shotgun_cartridge"
+      - "itemsadder:shotgun"
+      - "itemsadder:firework_launcher"
+  shields:
+    enabled: true
+    icon: "itemsadder:ruby_shield"
+    name: 'Shields'
+    permission: "ia.menu.shields"
+    items:
+      - "itemsadder:ender_shield"
+      - "itemsadder:obsidian_shield"
+      - "itemsadder:bronze_shield"
+      - "itemsadder:ruby_shield"
+      - "itemsadder:spinel_shield"
+      - "itemsadder:turquoise_shield"
+      - "itemsadder:amethyst_shield"
+      - "itemsadder:fossil_shield"
+  bows:
+    enabled: true
+    icon: "itemsadder:red_bow"
+    name: 'Bows'
+    permission: "ia.menu.bows"
+    items:
+      - "itemsadder:astral_bow"
+      - "itemsadder:cross_bow"
+      - "itemsadder:black_bow"
+      - "itemsadder:red_bow"
+      - "itemsadder:green_bow"
+      - "itemsadder:blue_bow"
+      - "itemsadder:purple_bow"
+      - "itemsadder:cyan_bow"
+  eatables:
+    enabled: true
+    icon: "itemsadder:pizza"
+    name: 'Food'
+    permission: "ia.menu.eatables"
+    items:
+      - "itemsadder:pizza"
+      - "itemsadder:taco"
+      - "itemsadder:hamburger"
+      - "itemsadder:chips"
+      - "itemsadder:hotdog"
+      - "itemsadder:tropical_fish_nigiri"
+      - "itemsadder:cod_nigiri"
+      - "itemsadder:salmon_nigiri"
+      - "itemsadder:pufferfish_nigiri"
+      - "itemsadder:sausage"
+      - "itemsadder:cooked_sausage"
+      - "itemsadder:baguette"
+      - "itemsadder:broken_egg"
+      - "itemsadder:fried_egg"
+      - "itemsadder:peeled_potato"
+      - "itemsadder:potato_sticks"
+      - "itemsadder:fried_potato_sticks"
+      - "itemsadder:french_fries"
+      - "itemsadder:donut_base"
+      - "itemsadder:cooked_donut_base"
+      - "itemsadder:sweet"
+      - "itemsadder:sweet_stick"
+      - "itemsadder:pink_donut"
+      - "itemsadder:nether_donut"
+      - "itemsadder:cheese"
+      - "itemsadder:sliced_bread"
+      - "itemsadder:sliced_baguette"
+      - "itemsadder:sliced_cheese"
+      - "itemsadder:blue_parrotfish"
+      - "itemsadder:cooked_blue_parrotfish"
+      - "itemsadder:green_sunfish"
+      - "itemsadder:cooked_green_sunfish"
+      - "itemsadder:goldfish"
+      - "itemsadder:cooked_goldfish"
+      - "itemsadder:black_moor_goldfish"
+      - "itemsadder:cooked_black_moor_goldfish"
+      - "itemsadder:tuna"
+      - "itemsadder:cooked_tuna"
+      - "itemsadder:sliced_raw_beef"
+      - "itemsadder:sliced_roast_beef"
+      - "itemsadder:sliced_bread_with_sweet_berries_jam"
+      - "itemsadder:sliced_bread_with_pear_jam"
+      - "itemsadder:sliced_bread_with_apple_jam"
+  drinks:
+    enabled: true
+    icon: "itemsadder:cola"
+    name: 'Drinks'
+    permission: "ia.menu.drinks"
+    items:
+      - "itemsadder:cola"
+      - "itemsadder:hot_chocolate"
+      - "itemsadder:coffee"
+      - "itemsadder:bloody_mary"
+  vegetables:
+    enabled: true
+    icon: "itemsadder:tomato"
+    name: 'Vegetables and Fruit'
+    permission: "ia.menu.vegetables"
+    items:
+      - "itemsadder:tomato"
+      - "itemsadder:banana"
+      - "itemsadder:garlic"
+      - "itemsadder:lettuce"
+      - "itemsadder:chili_pepper"
+      - "itemsadder:pear"
+      - "itemsadder:rice"
+  seeds:
+    enabled: true
+    icon: "itemsadder:tomato_seeds"
+    name: 'Seeds'
+    permission: "ia.menu.seeds"
+    items:
+      - "itemsadder:tomato_seeds"
+      - "itemsadder:garlic_seeds"
+      - "itemsadder:lettuce_seeds"
+      - "itemsadder:chili_pepper_seeds"
+      - "itemsadder:rice_seeds"
+      - "itemsadder:tobacco_seeds"
+  fishes:
+    enabled: true
+    icon: "itemsadder:blue_parrotfish"
+    name: 'Fishes'
+    permission: "ia.menu.fishes"
+    items:
+      - "itemsadder:blue_parrotfish"
+      - "itemsadder:green_sunfish"
+      - "itemsadder:goldfish"
+      - "itemsadder:black_moor_goldfish"
+      - "itemsadder:tuna"
+  potions:
+    enabled: true
+    icon: "itemsadder:diamonds_finder_potion"
+    name: 'Potions'
+    permission: "ia.menu.potions"
+    items:
+      - "itemsadder:diamonds_finder_potion"
+      - "itemsadder:emeralds_finder_potion"
+      - "itemsadder:strange_potion"
+      - "itemsadder:antidote"
+  furnitures:
+    enabled: true
+    icon: "itemsadder:old_clock"
+    name: 'Furnitures'
+    permission: "ia.menu.furnitures"
+    items:
+      - "itemsadder:old_clock"
+      - "itemsadder:opened_chest"
+      - "itemsadder:computer_desk"
+      - "itemsadder:table"
+      - "itemsadder:glass_table"
+      - "itemsadder:lamp"
+      - "itemsadder:lava_lamp"
+      - "itemsadder:tv"
+      - "itemsadder:monitor"
+      - "itemsadder:mini_fridge"
+      - "itemsadder:mysterious_stone"
+      - "itemsadder:alchemy_candles"
+      - "itemsadder:white_chandeliers"
+      - "itemsadder:black_chandeliers"
+      - "itemsadder:black_and_red_chandeliers"
+      - "itemsadder:small_fountain"
+      - "itemsadder:lit_campfire"
+  paintings:
+    enabled: true
+    icon: "itemsadder:painting_burst"
+    name: 'Paintings'
+    permission: "ia.menu.paintings"
+    items:
+      - "itemsadder:painting_burst"
+      - "itemsadder:painting_courbet"
+      - "itemsadder:painting_graham"
+      - "itemsadder:painting_match"
+      - "itemsadder:painting_pool"
+      - "itemsadder:painting_skull_and_roses"
+      - "itemsadder:painting_stage"
+      - "itemsadder:painting_void"
+      - "itemsadder:painting_wanderer"
+  chairs:
+    enabled: true
+    icon: "itemsadder:simple_chair"
+    name: 'Chairs'
+    permission: "ia.menu.chairs"
+    items:
+      - "itemsadder:simple_chair"
+      - "itemsadder:white_chair"
+      - "itemsadder:computer_chair"
+      - "itemsadder:white_bar_chair"
+      - "itemsadder:orange_bar_chair"
+      - "itemsadder:magenta_bar_chair"
+      - "itemsadder:light_blue_bar_chair"
+      - "itemsadder:yellow_bar_chair"
+      - "itemsadder:lime_bar_chair"
+      - "itemsadder:pink_bar_chair"
+      - "itemsadder:gray_bar_chair"
+      - "itemsadder:light_gray_bar_chair"
+      - "itemsadder:cyan_bar_chair"
+      - "itemsadder:purple_bar_chair"
+      - "itemsadder:blue_bar_chair"
+      - "itemsadder:brown_bar_chair"
+      - "itemsadder:green_bar_chair"
+      - "itemsadder:red_bar_chair"
+      - "itemsadder:black_bar_chair"
+      - "itemsadder:white_wood_chair"
+      - "itemsadder:orange_wood_chair"
+      - "itemsadder:magenta_wood_chair"
+      - "itemsadder:light_blue_wood_chair"
+      - "itemsadder:yellow_wood_chair"
+      - "itemsadder:lime_wood_chair"
+      - "itemsadder:pink_wood_chair"
+      - "itemsadder:gray_wood_chair"
+      - "itemsadder:light_gray_wood_chair"
+      - "itemsadder:cyan_wood_chair"
+      - "itemsadder:purple_wood_chair"
+      - "itemsadder:blue_wood_chair"
+      - "itemsadder:brown_wood_chair"
+      - "itemsadder:green_wood_chair"
+      - "itemsadder:red_wood_chair"
+      - "itemsadder:black_wood_chair"
+      - "itemsadder:school_chair"
+      - "itemsadder:school_chair_lazy"
+  hats:
+    enabled: true
+    icon: "itemsadder:deadmau5_hat"
+    name: 'Hats'
+    permission: "ia.menu.hats"
+    items:
+      - "itemsadder:deadmau5_hat"
+      - "itemsadder:top_hat"
+      - "itemsadder:welding_mask"
+      - "itemsadder:mining_helmet"
+      - "itemsadder:dog_mask"
+      - "itemsadder:ruby_pickaxe_hat"
+      - "itemsadder:straw_hat"
+      - "itemsadder:cool_sunglasses"
+      - "itemsadder:glasses"
+      - "itemsadder:cigar"
+      - "itemsadder:biker_helmet"
+      - "itemsadder:cat_ears"
+  wearables:
+    enabled: true
+    icon: "itemsadder:demoniac_red_wings"
+    name: 'Wearables'
+    permission: "ia.menu.wearables"
+    items:
+      - "itemsadder:demoniac_red_wings"
+      - "itemsadder:demoniac_turquoise_wings"
+      - "itemsadder:demoniac_purple_wings"
+      - "itemsadder:demoniac_blue_wings"
+      - "itemsadder:demoniac_black_wings"
+      - "itemsadder:ender_dragon_wings"
+      - "itemsadder:all_black_cat_tail"
+      - "itemsadder:black_cat_tail"
+      - "itemsadder:white_cat_tail"
+      - "itemsadder:red_backpack"
+      - "itemsadder:turquoise_backpack"
+      - "itemsadder:purple_backpack"
+      - "itemsadder:blue_backpack"
+      - "itemsadder:black_backpack"
+      - "itemsadder:brown_backpack"
+  machines:
+    enabled: true
+    icon: "itemsadder:energy_extractor"
+    name: 'Machines'
+    permission: "ia.menu.machines"
+    items:
+      - "itemsadder:energy_extractor"
+      - "itemsadder:energy_converter"
+      - "itemsadder:vending_machine"
+      - "itemsadder:coffee_machine"
+      - "itemsadder:restoration_table"
+      - "itemsadder:customization_table"
+  blocks:
+    enabled: true
+    icon: "itemsadder:ruby_block"
+    name: 'Blocks'
+    permission: "ia.menu.blocks"
+    items:
+      - "itemsadder:ruby_block"
+      - "itemsadder:crystal_block"
+      - "itemsadder:spinel_block"
+      - "itemsadder:turquoise_block"
+      - "itemsadder:aqua_aura_block"
+      - "itemsadder:amethyst_block"
+      - "itemsadder:amethyst_prism_block"
+      - "itemsadder:crying_obsidian"
+      - "itemsadder:nice_stone"
+      - "itemsadder:nice_wood"
+      - "itemsadder:modern_stone"
+      - "itemsadder:modern_sandstone"
+      - "itemsadder:modern_quartz"
+      - "itemsadder:restoration_table"
+      - "itemsadder:customization_table"
+  ores:
+    enabled: true
+    icon: "itemsadder:ruby_ore"
+    name: 'Ores'
+    permission: "ia.menu.ores"
+    items:
+      - "itemsadder:ruby_ore"
+      - "itemsadder:spinel_ore"
+      - "itemsadder:turquoise_ore"
+      - "itemsadder:aqua_aura_ore"
+      - "itemsadder:amethyst_ore"
+      - "itemsadder:bronze_ore"
+      - "itemsadder:mysterious_ore"
+      - "itemsadder:end_ore"
+      - "itemsadder:iron_dirt_ore"
+      - "itemsadder:gold_dirt_ore"
+      - "itemsadder:coal_dirt_ore"
+      - "itemsadder:blaze_powder_ore"
+      - "itemsadder:nether_alchemy_ore"
+  minerals:
+    enabled: true
+    icon: "itemsadder:ruby"
+    name: 'Minerals'
+    permission: "ia.menu.minerals"
+    items:
+      - "itemsadder:ruby"
+      - "itemsadder:crystal"
+      - "itemsadder:spinel"
+      - "itemsadder:turquoise"
+      - "itemsadder:aqua_aura"
+      - "itemsadder:amethyst"
+      - "itemsadder:amethyst_prism"
+      - "itemsadder:fossil"
+      - "itemsadder:bronze_ingot"
+      - "itemsadder:philosopher_stone"
+      - "itemsadder:mysterious_material"
+      - "itemsadder:end_shard"
+      - "itemsadder:end_crystals"
+      - "itemsadder:end_ingot"
+      - "itemsadder:coal_nugget"
+  instruments:
+    enabled: true
+    icon: "itemsadder:guitar_sword"
+    name: 'Instruments'
+    permission: "ia.menu.instruments"
+    items:
+      - "itemsadder:guitar_sword"
+  various:
+    enabled: true
+    icon: "itemsadder:empty_cup"
+    name: 'Items and ingredients'
+    permission: "ia.menu.various"
+    items:
+      - "itemsadder:drink_glass"
+      - "itemsadder:empty_cup"
+      - "itemsadder:cup_of_water"
+      - "itemsadder:cup_of_hot_water"
+      - "itemsadder:projectile"
+      - "itemsadder:plastic"
+      - "itemsadder:plastic_plate"
+      - "itemsadder:clip"
+      - "itemsadder:blank_disc"
+      - "itemsadder:flour"
+      - "itemsadder:dough"
+      - "itemsadder:ketchup_bottle"
+      - "itemsadder:ketchup"
+      - "itemsadder:chili_powder"
+      - "itemsadder:iron_plate"
+      - "itemsadder:tobacco"
+      - "itemsadder:nest"
+      - "itemsadder:eggs_nest"
+      - "itemsadder:knife"
+      - "itemsadder:chisel"
+      - "itemsadder:jar"
+      - "itemsadder:sweet_berries_jam_jar"
+      - "itemsadder:pear_jam_jar"
+      - "itemsadder:apple_jam_jar"
+      - "itemsadder:cut_spruce_log"
+  alchemy:
+    enabled: true
+    icon: "itemsadder:arcane_ring"
+    name: 'Alchemy items'
+    permission: "ia.menu.alchemy"
+    items:
+      - "itemsadder:philosopher_stone"
+      - "itemsadder:arcane_ring"
+      - "itemsadder:energy_extractor"
+      - "itemsadder:energy_converter"
+      - "itemsadder:energy_orb"
+      - "itemsadder:small_energy_capsule"
+      - "itemsadder:energy_capsule"
+      - "itemsadder:mysterious_artifact"
+      - "itemsadder:mysterious_sword"
+      - "itemsadder:mysterious_amulet"
+      - "itemsadder:restoration_table"
+      - "itemsadder:alchemy_candles"
+      - "itemsadder:knowledge_fragment"
+      - "itemsadder:mysterious_book"
+      - "itemsadder:decrypted_mysterious_book"
+      - "itemsadder:mysterious_stone"
+      - "itemsadder:mysterious_hood"
+      - "itemsadder:mysterious_chest"
+      - "itemsadder:mysterious_legs"
+      - "itemsadder:mysterious_boots"
+      - "itemsadder:four_leaf_clover"
+      - "itemsadder:healing_crystals"
+  musicdiscs:
+    enabled: true
+    icon: "itemsadder:music_disc_electric_keys"
+    name: 'Music Discs'
+    permission: "ia.menu.musicdiscs"
+    items:
+      - "itemsadder:music_disc_electric_keys"
+      - "itemsadder:music_disc_cdk_sunday"
+      - "itemsadder:music_disc_vidian_aether_theories"
+  throwables:
+    enabled: true
+    icon: "itemsadder:grenade"
+    name: 'Throwables'
+    permission: "ia.menu.throwables"
+    items:
+      - "itemsadder:grenade"
+      - "itemsadder:mysterious_amulet"
+      - "itemsadder:ufo_toy"
+  books:
+    enabled: true
+    icon: "itemsadder:mysterious_book"
+    name: 'Books'
+    permission: "ia.menu.books"
+    items:
+      - "itemsadder:mysterious_book"
+      - "itemsadder:letter"
+      - "itemsadder:decrypted_mysterious_book"
+  vehicles:
+    enabled: true
+    icon: "itemsadder:white_go_cart"
+    name: 'Vehicles'
+    permission: "ia.menu.vehicles"
+    items:
+      - "itemsadder:shopping_cart"
+      - "itemsadder:white_go_cart"
+      - "itemsadder:orange_go_cart"
+      - "itemsadder:magenta_go_cart"
+      - "itemsadder:light_blue_go_cart"
+      - "itemsadder:yellow_go_cart"
+      - "itemsadder:lime_go_cart"
+      - "itemsadder:pink_go_cart"
+      - "itemsadder:gray_go_cart"
+      - "itemsadder:light_gray_go_cart"
+      - "itemsadder:cyan_go_cart"
+      - "itemsadder:purple_go_cart"
+      - "itemsadder:blue_go_cart"
+      - "itemsadder:brown_go_cart"
+      - "itemsadder:green_go_cart"
+      - "itemsadder:red_go_cart"
+      - "itemsadder:black_go_cart"
+      - "itemsadder:oak_wood_plane"
+      - "itemsadder:spruce_wood_plane"
+      - "itemsadder:birch_wood_plane"
+      - "itemsadder:jungle_wood_plane"
+      - "itemsadder:acacia_wood_plane"
+      - "itemsadder:dark_oak_wood_plane"
+      - "itemsadder:ufo"
+  icons:
+    enabled: true
+    icon: "mcicons:icon_web"
+    name: 'Icons'
+    permission: 'ia.menu.icons'
+    items:
+      - "mcicons:icon_left_grey"
+      - "mcicons:icon_left_blue"
+      - "mcicons:icon_right_grey"
+      - "mcicons:icon_right_blue"
+      - "mcicons:icon_up_grey"
+      - "mcicons:icon_up_blue"
+      - "mcicons:icon_next_white"
+      - "mcicons:icon_next_orange"
+      - "mcicons:icon_back_white"
+      - "mcicons:icon_back_orange"
+      - "mcicons:icon_cancel"
+      - "mcicons:icon_confirm"
+      - "mcicons:icon_lock"
+      - "mcicons:icon_unlock"
+      - "mcicons:icon_web"
+      - "mcicons:icon_ender_chest"
+      - "mcicons:icon_refresh"
+      - "mcicons:icon_time_day"
+      - "mcicons:icon_time_midnight"
+      - "mcicons:icon_time_night"
+      - "mcicons:icon_time_noon"
+      - "mcicons:icon_time_sunrise"
+      - "mcicons:icon_time_sunset"
+      - "mcicons:icon_toggle_off"
+      - "mcicons:icon_toggle_on"
+      - "mcicons:icon_arrow_chest"
+      - "mcicons:icon_plus"
+      - "mcicons:icon_color_picker"
+      - "mcicons:icon_comment"
+      - "mcicons:icon_search"
+  generic_items:
+    enabled: true
+    icon: "itemsadder:light_blue_coupon"
+    name: 'Generic Items'
+    permission: 'ia.menu.generic_items'
+    items:
+      - "itemsadder:light_blue_coupon"
+      - "itemsadder:turquoise_coupon"
+      - "itemsadder:purple_coupon"
+      - "itemsadder:green_coupon"
+      - "itemsadder:green_coupon"
+      - "itemsadder:red_coupon"
+      - "itemsadder:black_coupon"
+      - "itemsadder:white_coupon"
+      - "itemsadder:golden_coupon"
+      - "itemsadder:blue_ring"
+      - "itemsadder:light_blue_ring"
+      - "itemsadder:turquoise_ring"
+      - "itemsadder:purple_ring"
+      - "itemsadder:green_ring"
+      - "itemsadder:red_ring"
+      - "itemsadder:black_ring"
+      - "itemsadder:white_ring"
+      - "itemsadder:golden_ring"
+      - "itemsadder:marriage_ring"
+      - "itemsadder:blue_key"
+      - "itemsadder:light_blue_key"
+      - "itemsadder:turquoise_key"
+      - "itemsadder:purple_key"
+      - "itemsadder:green_key"
+      - "itemsadder:red_key"
+      - "itemsadder:black_key"
+      - "itemsadder:white_key"
+      - "itemsadder:golden_key"
+      - "itemsadder:sack_of_money"
+      - "itemsadder:coin"
+      - "itemsadder:carton_box"
+      - "itemsadder:plastic_bag"
+  halloween:
+    enabled: true
+    icon: "itemsadder:jack_o_lantern_backpack"
+    name: '&6Halloween Items'
+    permission: 'ia.menu.halloween'
+    items:
+      - "itemsadder:broomstick"
+      - "itemsadder:jack_o_lantern_backpack"
+      - "itemsadder:dark_jack_o_lantern_backpack"
+      - "itemsadder:spider_backpack"
+      - "itemsadder:cave_spider_backpack"
+      - "itemsadder:bones_backpack"
+      - "itemsadder:witch_hat"
+      - "itemsadder:bat_wings"
+      - "itemsadder:axe_hat"
+      - "itemsadder:decorative_pumpkin"
+  christmas:
+    enabled: true
+    icon: "itemsadder:santa_hat"
+    name: '&6Christmas Items'
+    permission: 'ia.menu.christmas'
+    items:
+      - "itemsadder:christmas_tree"
+      - "itemsadder:christmas_candle"
+      - "itemsadder:santa_hat"
+      - "itemsadder:decorative_candy_cane"
+      - "itemsadder:christmas_wreath"
+  special:
+    enabled: true
+    icon: "itemsadder:bug_medal"
+    name: 'Special'
+    permission: 'ia.menu.special'
+    items:
+      - "itemsadder:bug_medal"
+      - "itemsadder:cute_medal"
+      - "itemsadder:donator_medal"
+      - "itemsadder:dark_throne"
+      - "itemsadder:banknote"
+      - "itemsadder:coin"
+  realcraft:
+    enabled: true
+    icon: "realcraft:waterskin"
+    name: 'RealCraft'
+    permission: 'ia.menu.realcraft'
+    items:
+      - "realcraft:waterskin"
+      - "realcraft:boiled_water_bucket"
+  all:
+    enabled: true
+    icon: "itemsadder:ruby_block"
+    name: 'All'
+    show_all_items: true
+    hide_items:
+      - "mcicons:icon_left_grey"
+      - "mcicons:icon_left_blue"
+      - "mcicons:icon_right_grey"
+      - "mcicons:icon_right_blue"
+      - "mcicons:icon_up_grey"
+      - "mcicons:icon_up_blue"
+      - "mcicons:icon_next_white"
+      - "mcicons:icon_next_orange"
+      - "mcicons:icon_back_white"
+      - "mcicons:icon_back_orange"
+      - "mcicons:icon_cancel"
+      - "mcicons:icon_confirm"
+      - "mcicons:icon_lock"
+      - "mcicons:icon_unlock"
+      - "mcicons:icon_web"
+      - "itemsadder:light_blue_coupon"
+      - "itemsadder:turquoise_coupon"
+      - "itemsadder:purple_coupon"
+      - "itemsadder:green_coupon"
+      - "itemsadder:red_coupon"
+      - "itemsadder:black_coupon"
+      - "itemsadder:white_coupon"
+      - "itemsadder:golden_coupon"
+      - "itemsadder:blue_ring"
+      - "itemsadder:light_blue_ring"
+      - "itemsadder:turquoise_ring"
+      - "itemsadder:purple_ring"
+      - "itemsadder:green_ring"
+      - "itemsadder:red_ring"
+      - "itemsadder:black_ring"
+      - "itemsadder:white_ring"
+      - "itemsadder:golden_ring"
+      - "itemsadder:marriage_ring"
